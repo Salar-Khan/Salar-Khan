@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salar Khan</h1>
 <h3 align="center">A passionate developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif"/>
-- 🌱 I’m currently learning **Backend in Python and Node.js**
+- 🌱 I’m currently learning **Backend in Node.js**
 
 - 👯 I’m looking to collaborate on **Front-end related projects.**
 
